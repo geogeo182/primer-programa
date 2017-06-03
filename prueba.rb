@@ -7,7 +7,7 @@ p nombre.end_with? ("i")
 
 a = "geovanni"
 p a[-1]
-p 
+p a[0]= "z" 
 
 #.upcase, que pone todos los caracteres en mayúsculas
 #.downcase, que pone todos los caracteres en minúsculas
