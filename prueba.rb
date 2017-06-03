@@ -8,7 +8,7 @@ p nombre.end_with? ("i")
 a = "geovanni"
 p a[-1]
 p a[0]= "z" 
-
+p a
 #.upcase, que pone todos los caracteres en mayúsculas
 #.downcase, que pone todos los caracteres en minúsculas
 #.length, que nos dice el número de caracteres de un string, incluyendo los espacios en blanco.
